@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { collection, query, onSnapshot, updateDoc, doc } from 'firebase/firestore';
 import Modal from './Modal';
-import MemoModal from './MemoModal';
+import MemoModal from './Memo.js';
 
 const PastResearchView = ({ db, userId }) => {
   const [dailyLogs, setDailyLogs] = useState([]);

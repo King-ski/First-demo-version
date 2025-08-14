@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { collection, query, onSnapshot, addDoc, setDoc, deleteDoc, serverTimestamp, updateDoc, doc } from 'firebase/firestore';
 import Modal from './Modal';
-import MemoModal from './MemoModal';
+import MemoModal from './Memo.js';
 
 const CellCountCalculator = ({ db, userId }) => {
   const [calculationMethod, setCalculationMethod] = useState('hemocytometer');

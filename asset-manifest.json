@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/First-demo-version/static/css/main.cf890fdb.css",
+    "main.js": "/First-demo-version/static/js/main.0dcf25ae.js",
+    "index.html": "/First-demo-version/index.html",
+    "main.cf890fdb.css.map": "/First-demo-version/static/css/main.cf890fdb.css.map",
+    "main.0dcf25ae.js.map": "/First-demo-version/static/js/main.0dcf25ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.0dcf25ae.js"
+  ]
+}
